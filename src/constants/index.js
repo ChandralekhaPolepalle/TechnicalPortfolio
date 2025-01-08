@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "2024 - Present",
     role: "Full Stack Developer",
     company: "Shift AI",
     description: `Developed and optimized shiftfleet.ai, an AI-driven fleet management website, significantly improving traffic and user engagement. Developed the Appraiser Form tool with Vue.js, Flask, and MongoDB, reducing manual errors and implementing dynamic print previews with Puppeteer. Implemented a CI/CD pipeline on Heroku and leveraged AWS RDS for scalable database solutions. Streamlined data collection for marketing campaigns by integrating website forms with HubSpot CRM using Python, automating email notifications.`,
