@@ -55,7 +55,7 @@ export const PROJECTS = [
     description:
       "Created a website to showcase the services of Shift AI, utilizing basic web technologies for a responsive design. Integrated HubSpot CRM for automated engagement and streamlined client interactions.",
     technologies: ["HTML", "CSS", "JavaScript", "Figma","Heroku"],
-    link:"https://shiftfleet.ai/"
+    link:"https://github.com/ChandralekhaPolepalle/Shift"
   },
   {
     title: "Architecture Firm Website",
