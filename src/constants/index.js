@@ -14,8 +14,13 @@ export const EXPERIENCES = [
     year: "2024 - Present",
     role: "Full Stack Developer",
     company: "Shift AI",
-    description: `Developed and optimized shiftfleet.ai, an AI-driven fleet management website, significantly improving traffic and user engagement. Developed the Appraiser Form tool with Vue.js, Flask, and MongoDB, reducing manual errors and implementing dynamic print previews with Puppeteer. Implemented a CI/CD pipeline on Heroku and leveraged AWS RDS for scalable database solutions. Streamlined data collection for marketing campaigns by integrating website forms with HubSpot CRM using Python, automating email notifications.`,
-    technologies: ["React.js", "Vue.js", "Postgres","Figma", "AWS"],
+    description: `•	Built and optimized shiftfleet.ai, an AI-driven fleet management website, increasing organic traffic by 30% and user engagement by 40% through SEO best practices and analytics integration.
+•	Modernized platform infrastructure by integrating CI/CD pipelines (GitHub Actions, Docker, Heroku) and AWS RDS for database scaling, reducing deployment time by 50% and improving system resilience.
+•	Developed and optimized a backend system using Django, GraphQL (with Graphene-Django), and PostgreSQL, enabling seamless fleet tracking and automating business workflows for fleet managers.
+•	Built and integrated the HouseStack chatbot using LangChain, LLM, and Retrieval-Augmented Generation (RAG), improving customer interactions and enhancing conversational AI performance by 25%.
+•	Optimized the chatbot's retrieval pipeline by implementing vector databases (FAISS) and prompt engineering techniques, improving response accuracy and reducing query latency by 40%.
+`,
+    technologies: ["React.js", "LLM", "Langchain","Postgres", "Figma"],
   },
   {
     year: "2023 - 2024",

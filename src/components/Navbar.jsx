@@ -60,7 +60,7 @@ const Navbar = () => {
         >
           Hire Me
         </button>
-        <a href="resume.pdf"
+        <a href="Resume Chandralekha Polepalle.pdf"
           target="_blank"
           rel="noopener noreferrer"
           download
