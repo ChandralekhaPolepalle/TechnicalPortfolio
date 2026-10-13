@@ -82,11 +82,11 @@ const Contact = () => {
             </a>
             <a href="mailto:chandralekhapolepalle@gmail.com"
                className="bg-white rounded-sm p-2.5 text-sm text-stone-800 mb-10 transition transform hover:scale-105 hover:bg-[#B39CDA] duration-500">
-                Mail Me
+                Mail
             </a>
             <a href="https://wa.me/16476409969"
                className="bg-white rounded-sm p-2.5 text-sm text-stone-800 mb-10 transition transform hover:scale-105 hover:bg-[#B39CDA] duration-500">
-                WhatsApp Me
+                WhatsApp
             </a>
             </div>
           </div>
