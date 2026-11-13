@@ -22,13 +22,13 @@ const Nav = () => {
         <div className="flex justify-between items-center max-w-6xl mx-auto
         md:my-2  p-4 md:rounded-xl backdrop-blur-lg sticky">
          <div className="text-white font-semibold text-lg uppercase">
-            <button  onClick={() => scrollToSection('hero')}>
-                <img 
-                className="mx-2 w-12 transition-transform transform hover:scale-110 duration-500 rounded-full" 
-                src={logo} 
-                alt="logo" />
-            </button>
-         </div>
+             <button  onClick={() => scrollToSection('hero')}>
+                 <img 
+                 className="mx-2 w-12 transition-transform transform hover:scale-110 duration-500 rounded-full" 
+                 src={logo} 
+                 alt="logo" />
+             </button>
+          </div>
         </div>
 
         <div className="flex-grow flex justify-center gap-8 text-lg font-small hidden md:flex">
@@ -68,14 +68,14 @@ const Nav = () => {
             >
             Hire Me
             </button>
-            <a href="Resume Chandralekha Polepalle.pdf"
+            {/* <a href="Resume Chandralekha Polepalle.pdf"
             target="_blank"
             rel="noopener noreferrer"
             download
             className="hover:text-[#BEAADF] transition duration-300"
             >
             Download Resume
-            </a>
+            </a> */}
       </div>
 
       <div className="m-8 flex items-center justify-center gap-4 text-2xl hidden md:flex">
@@ -99,7 +99,7 @@ const Nav = () => {
         </a>
      </div>
 
-      
+       
 
       <div className="md:hidden">
         <button onClick={()=> setMenuOpen(!menuOpen)}
@@ -146,14 +146,14 @@ const Nav = () => {
         >
           Hire Me
         </button>
-        <a href="resume.pdf"
+        {/* <a href="resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           download
           className="hover:text-[#BEAADF] transition duration-300"
         >
           Download Resume
-        </a>
+        </a> */}
         <a 
             href="https://www.linkedin.com/in/chandralekhapolepalle/" 
             target="_blank" 
