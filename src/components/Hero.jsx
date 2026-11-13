@@ -34,13 +34,13 @@ const Hero = () => {
                     </span>
                 ))}
             </p>
-            <a href="Resume Chandralekha Polepalle.pdf"
+            {/* <a href="Resume Chandralekha Polepalle.pdf"
                target="_blank"
                rel="noopener noreferrer"
                download
                className="bg-white rounded-sm p-2.5 text-sm text-stone-800 mb-10 transition transform hover:scale-105 hover:bg-[#B39CDA] duration-500">
                 Download Resume
-               </a>
+               </a> */}
                
 
           </div>
