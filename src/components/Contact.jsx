@@ -84,10 +84,10 @@ const Contact = () => {
                className="bg-white rounded-sm p-2.5 text-sm text-stone-800 mb-10 transition transform hover:scale-105 hover:bg-[#B39CDA] duration-500">
                 Mail
             </a>
-            <a href="https://wa.me/16476409969"
+            {/* <a href="https://wa.me/16476409969"
                className="bg-white rounded-sm p-2.5 text-sm text-stone-800 mb-10 transition transform hover:scale-105 hover:bg-[#B39CDA] duration-500">
                 WhatsApp
-            </a>
+            </a> */}
             </div>
           </div>
         </div>
